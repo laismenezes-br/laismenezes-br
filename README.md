@@ -1,12 +1,11 @@
 ## Lais Menezes ✌
-I’m a Mechatronics Engineer student at IFCE. Nowadays, studying Data Cloud Engineer focusing in Lambda Architecture (Azure Cloud Databricks and Airflow).
+I’m a Mechatronics Engineer student at IFCE and a Data Engineer Jr. in development. Nowadays, studying Data Modeling, SQL Spark and uplevel my Lakehouse Skills (Databricks).
 <div align="center">
   <a href="https://github.com/laismenezes-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laismenezes-br&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lais-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
   
   ##
