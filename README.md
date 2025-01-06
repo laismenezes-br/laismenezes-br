@@ -1,21 +1,21 @@
 ## Lais Menezes ✌
-I'm a Mechatronics Engineering student at IFCE and a Data Engineer Jr. Here's a brief overview of my skills and interests:
+I'm a Data Engineer Jr.. Here's an overview of my professional expertise and areas of focus:
 
 ***About Me***
 
-Data Engineering: Nowdays, I'm working as an Data Engineer Jr., so continuously developing my skills and knowledge as a professional in this area.
+Python: Proficient in Python, which I utilize as my primary programming language for data engineering tasks, automation, and data processing.
 
-Python: Proficient in Python, I use it as my primary programming language for data engineering tasks and automation.
+Airflow Orchestration: Experienced with Apache Airflow, I design, schedule, and monitor data pipelines to ensure seamless data workflows and integrations.
 
-Airflow Orchestration: I have hands-on experience with Apache Airflow. I can design, schedule, and monitor data pipelines efficiently.
+DBT (Data Build Tool): Skilled in using DBT to transform data into structured, analytics-ready formats. I create and manage DBT models, develop macros, and implement tests to enhance data transformation processes.
 
-DBT (Data Build Tool): I'm familiar with DBT and its capabilities in transforming data into structured, analytics-ready formats. I can create and manage DBT models to streamline data transformation processes, also create macros and tests that are resourses from this tool.
+Databricks: Adept at leveraging Databricks for big data analytics, including creating and managing Databricks notebooks for data exploration, analysis, and collaboration.
 
-Databricks: I'm working with Databricks, a cloud-based platform for big data analytics. I'm comfortable using Databricks notebooks for data exploration and analysis.
+Artificial Intelligence: Eager to explore the potential of AI in data engineering and analytics, focusing on how machine learning and AI can optimize data-driven processes and decision-making.
 
-Linux: Basics knowledgment in Linux operating systems as Ubuntu. I can navigate the command line and perform basic system administration tasks.
+Linux: Familiar with Linux operating systems, such as Ubuntu, and capable of navigating the command line and performing basic system administration tasks relevant to data engineering workflows.
 
-Feel free to reach out to me!
+Feel free to reach out to discuss how I can contribute to your data projects!
 
 <div align="center">
   <a href="https://github.com/laismenezes-br">
