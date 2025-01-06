@@ -1,5 +1,5 @@
 ## Lais Menezes ✌
-I'm a Data Engineer Jr.. Here's an overview of my professional expertise and areas of focus:
+I'm a Data Engineer Jr. Here's an overview of my professional expertise and areas of focus:
 
 ***About Me***
 
